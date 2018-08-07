@@ -1,0 +1,16 @@
+{
+    "aciklama": {
+        "yapimci": "Bluet0oth",
+        "aciklama": "Bluet0oth API Hýzmetleri",
+        "url": "W"
+    },
+    "sayi": {
+        "espiri": "4"
+    },
+    "espiri": {
+        "1": "-Fransýzlar ben sýzlamam",
+        "2": "-Bu espiriye biri gerçekten güldümü \n +Ben gülüyorum",
+        "3": "-Soðuk espiri yapayým mý? \n +Yap \n -Kaç derece olsun",
+        "4": "-Lanrdon botu berbat. \n +Adý lardon deilki sjsjswj"
+    }
+}
