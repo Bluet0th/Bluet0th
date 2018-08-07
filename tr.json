@@ -1,0 +1,17 @@
+{
+    "aciklama": {
+        "yapimci": "Bluet0th",
+        "aciklama": "Bluet0th API Hýzmetleri",
+        "url": "https://raw.githubusercontent.com/Bluet0th/Bluet0th/master/tr.json"
+    },
+    "sayi": {
+        "laf": "5"
+    },
+    "laf": {
+        "1": "-Ben ne insanlar gördüm üzerinde elbise yok ne elbiseler gördüm içinde insan yok.",
+        "2": "-Insanýn en iyi dostu gölgesi derler. Unutma, O bile yanýnda olmak için Aydýnlýk Günü Bekler.",
+        "3": "-Biri gelir seni sen eder; biri gelir seni senden eder!",
+        "4": "-Paran varsa range rover, paran yoksa game over.",
+		"5": "-Cips paketi gibiymiþsin %70in hava."
+    }
+}
